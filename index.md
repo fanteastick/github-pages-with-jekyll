@@ -1,3 +1,6 @@
 # Welcome to my blog
 
 I'm glad you are here. I plan to talk about ...
+My adventures with hackathons in the coming month or two. It's high school hackathon season, bay bee!!
+
+I also need to collaborate with someone haha...
